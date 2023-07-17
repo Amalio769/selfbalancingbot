@@ -50,7 +50,7 @@ void loop() {
 
   Serial.print("Rotacion en X:  ");
   Serial.print(ang_x); 
-  Serial.print("/tRotacion en Y: ");
+  Serial.print("tRotacion en Y: ");
   Serial.println(ang_y);
 
   delay(10);
